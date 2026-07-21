@@ -28,8 +28,6 @@ The tables are organized into three functional groups:
 * **Role-level source records — Tables A6–A10**
   Report the individual job observations underlying the aggregated results. The tables identify the company, city, employer, job title, employment type, salary range, benefits, shift arrangement, work content, original source, and verification status of each observation.
 
-These data are used to estimate the annual employer cost of human parcel-sorting workers.
-
 ## Appendix B: Worker Efficiency and Sorting-Quality Parameters
 
 Appendix B contains the productivity and sorting-quality parameters used to estimate human processing capacity and compare human and robotic sorting performance.
@@ -50,8 +48,6 @@ The tables are organized into five functional groups:
 
 * **Sources and limitations — Tables B9–B10**
   Document the supporting sources, source URLs, intended uses, reliability levels, and limitations of the worker-efficiency evidence.
-
-These parameters are used to calculate effective human capacity, quality-adjusted output, and the share of sorting tasks that can be assigned to humanoid robots.
 
 ## Appendix C: Humanoid Robot Price, BOM and Total Ownership Cost Data
 
@@ -76,8 +72,6 @@ The tables are organized into six functional groups:
 
 * **Numerical assumptions and supporting evidence — Tables C13–C14**
   Report the numerical values used in the economic model together with their calculation notes, source links, and adjustable ranges.
-
-These data are used to calculate robot acquisition costs, annualized robot costs, five-year ownership costs, and economically acceptable robot prices.
 
 ## Appendix D: Detailed Computational Results
 
