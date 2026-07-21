@@ -117,5 +117,3 @@ The tables are organized into nine functional groups:
 
 * **Data sources — Table D14**
   Consolidates the sources used in the computational analysis and identifies the principal limitations associated with each input category.
-
-This appendix enables readers to verify the reported thresholds, reproduce the economic calculations, and examine the complete results underlying the findings presented in the manuscript.
