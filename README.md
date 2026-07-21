@@ -4,12 +4,6 @@
 
 **Supplementary Materials** is a structured collection of the empirical data, modelling assumptions, cost parameters, and computational results supporting the study **“A Cost-Efficiency Frontier for Humanoid Robot Deployment in Parcel Sorting.”**
 
-The materials serve three purposes:
-
-1. **Data Transparency**: Documents the public salary, worker-performance, and humanoid robot cost data used to calibrate the economic model.
-2. **Model Reproducibility**: Reports the parameter definitions, estimation procedures, scenario assumptions, and mathematical formulas required to reproduce the analysis.
-3. **Result Verification**: Provides the complete break-even, simulation, and optimization results underlying the findings reported in the manuscript.
-
 ## Appendix Structure
 
 | Appendix       | Main Content                                         | Primary Function                                                      |
