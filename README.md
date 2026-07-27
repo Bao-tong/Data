@@ -72,7 +72,7 @@ The tables are organized into six functional groups:
   Define each cost category, describe its default estimation method, identify the information required from vendors or pilot projects, and explain the construction of low, base, and high cost scenarios.
 
 * **Numerical assumptions — Tables C13**
-  Reports the low, base, and high values used in the economic model for exchange rates, deployment and operating costs, personnel requirements, electricity consumption, downtime, useful life, residual value, and the BOM proxy rate.
+  Report the low, base, and high values used in the economic model for exchange rates, deployment and operating costs, personnel requirements, electricity consumption, downtime, useful life, residual value, and the BOM proxy rate.
 ## Appendix D: Baseline Human Labour Cost Inputs
 
 Appendix D contains the baseline human labour-cost inputs used in the economic evaluation. It consolidates the representative salary, employer contribution, allowance, overtime, benefit, and annual labour-cost parameters used to construct the baseline human sorting-cost estimates.
